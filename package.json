@@ -1,0 +1,22 @@
+{
+  "name": "matias-zelarayan",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.9.4",
+    "hotkeypad": "0.1.1",
+    "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
+    "@cloudflare/unenv-preset": "^2.7.13",
+    "astro": "5.16.5",
+    "wrangler": "^4.55.0"
+  }
+}
