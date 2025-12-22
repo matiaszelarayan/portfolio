@@ -1,0 +1,481 @@
+{
+    "basics": {
+      "name": "Matías Zelarayán",
+      "label": "Software Developer",
+      "image": "/me.webp",
+      "email": "matiaszelarayandev@gmail.com",
+      "phone": "+54 381 000 1234",
+      "url": "https://github.com/R-Mutt22",
+      "summary": "Full Stack Developer Jr. y estudiante avanzado de la Tecnicatura en Diseño y Desarrollo de Aplicaciones Multiplataforma. Mi enfoque principal es la arquitectura Backend (Java, Spring Boot) y entornos Cloud (OCI), con experiencia en el ciclo de vida de software utilizando React, TypeScript y bases de datos relacionales. Mi formación previa en Artes Visuales potencia mi capacidad para el Control de Calidad (QA) y el diseño de interfaces (UX/UI), garantizando productos que no solo son técnicamente eficientes y seguros, sino también visualmente coherentes y centrados en la experiencia del usuario. Busco aplicar mi visión en proyectos de impacto, con un fuerte compromiso con la performance y la seguridad.",
+      "location": {
+        "address": "",
+        "postalCode": "2000",
+        "city": "Rosario, Santa Fe",
+        "countryCode": "AR",
+        "region": "Argentina"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Matías Zelarayán",
+          "url": "https://www.linkedin.com/in/matiaszelarayan22/"
+        },
+        {
+            "network": "GitHub",
+            "username": "Matías Zelarayán",
+            "url": "https://github.com/R-Mutt22"
+          },
+        {
+          "network": "X",
+          "username": "Matías Zelarayán",
+          "url": "https://x.com/r_mutt22"
+        }
+       
+      ]
+    },
+    "work": [
+      {
+        "name": "Almapiedra SRL",
+        "position": "Desarrollador Web",
+        "url": "https://almapiedra.com.ar/#!/-inicio/",
+        "startDate": "2024-03-01",
+        "endDate": "2024-05-01",
+        "summary": "● Reestructuré la página web desde cero, mejorando la experiencia de usuario (UX) y logrando una mejora del 22% en el tiempo de carga. ● Modernicé el código aplicando buenas prácticas de desarrollo web y optimización para buscadores (SEO básico). ● Diseñé la arquitectura técnica base para la futura integración de un sistema de e-commerce.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Feria ArteCo",
+        "position": "Analista de Performance",
+        "url": "https://artecocorrientes.com/",
+        "startDate": "2023-01-01",
+        "endDate": "2023-07-01",
+        "summary": "● Optimicé y actualicé la plataforma web para mejorar la experiencia de usuario (UX). ● Coordiné la estrategia en redes sociales y diseñé contenido digital para aumentar la visibilidad y el alcance de los eventos. ● Monitoreé métricas clave, logrando un aumento del 35% en la visibilidad en línea.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+      "url": "https://elegi.unnoba.edu.ar/tecnicatura-en-diseno-y-desarrollo-de-aplicaciones-multiplataforma/",
+      "area": "Tecnicatura en diseño y desarrollo de aplicaciones multiplataforma.",
+      "studyType": "Tecnicatura",
+      "startDate": "2024-02-01",
+      "endDate": "2026-07-01",
+      "score": "9.7",
+      "courses": [
+        "Desarrollo Web","Conceptos de Programación","Introducción al Diseño de Interfaz","Análisis Funcional de Aplicaciones Web","Planificación de Proyectos","Maquetación y Desarrollo Web I","Protocolo y Arquitectura Web","Desarrollo de Aplicaciones para Dispositivos Móviles","Sistemas Operativos","Inglés Técnico","Diseño Interactivo","Introducción a la Base de Datos","Maquetación y Desarrollo Web II","Programación Full Stack","Programación Dinámica","Emprendimiento de Negocios","Práctica Profesional y Legislación","Marketing Digital","Seguridad Informática","Proyecto Final"
+      ]
+    },
+    {
+      "institution": "Universidad Nacional de Jujuy",
+      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
+      "area": "Diplomatura en Gestión de Proyectos Culturales.",
+      "studyType": "Licenciatura",
+      "startDate": "2020-02-01",
+      "endDate": "2021-07-01",
+      "score": "9.7",
+      "courses": [
+        "Gestión Cultural","Políticas Culturales","Economía de la Cultura","Marketing Cultural","Producción de Eventos Culturales","Proyecto de Gestión Cultural"
+      ]
+    },
+  {
+      "institution": "Universidad Nacional de Tucumán",
+      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
+      "area": "Licenciatura en Artes Visuales. On hold.",
+      "studyType": "Licenciatura",
+      "startDate": "2009-02-01",
+      "endDate": "2013-07-01",
+      "score": "9.7",
+      "courses": [
+        "Historia del Arte","Teoría y Crítica del Arte","Taller de Producción Artística I","Taller de Producción Artística II","Taller de Producción Artística III","Taller de Producción Artística IV","Estética y Filosofía del Arte","Sociología del Arte","Psicología del Arte","Gestión Cultural","Seminario de Investigación I","Seminario de Investigación II","Proyecto Final de Carrera"
+      ]
+    }],
+      "certification": [
+      {
+      "institution": "Testing con Metodologías y Automatización - Cilsa",
+      "url": "https://www.cilsa.org/testing-con-metodologia/",
+      "area": "Testing de Software: Backend testing y el proceso de automatización.",
+      "studyType": "Curso",
+      "startDate": "2025-02-01",
+      "endDate": "2025-12-01",
+      "score": "9.0",
+      "courses": [
+        "Repaso de pruebas de caja negra y caja blanca","Aprendiendo a trabajar con TestLink","Metodologías de trabajo","Aprendiendo a trabajar con Jira","Backend testing y el proceso de automatización"
+      ]
+    },
+    {
+      "institution": "Matodologías Ágiles - Polo Tecnológico Rosario",
+      "url": "https://centrodeformacion.polotecnologico.net/",
+      "area": "Metodologías Ágiles: Scrum, Kanban, XP, Lean y Design Thinking.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-11-01",
+      "score": "9.0",
+      "courses": [
+        " Scrum","Kanban","Extreme Programming (XP)","Lean Software Development","Design Thinking"
+      ]
+    },
+      {
+      "institution": "DevOps - Alura Latam",
+      "url": "https://www.aluracursos.com/formacion-devops",
+      "area": "Formación DevOps: Colaboración y calidad del software.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
+      "score": "9.0",
+      "courses": [
+        "Linux","Git","Docker","Kubernetes","CI/CD","Monitorización","Cloud Computing","Infraestructura como Código"
+      ]
+    },
+    {
+      "institution": "xAcademy Dev. Technology with Purpose Foundation ",
+      "url": "https://technologywithpurpose.org/xacademy/xacademy-dev/",
+      "area": "Fase 1 - Programación Full Stack MEAN",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
+      "score": "9.0",
+      "courses": [
+        "Angular","1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "ONE LAB Tech Advance - Certificación OCI Foundations Associate",
+      "url": "https://www.oracle.com/latam/education/certification/#oci",
+      "area": "Ruta hacia la certificación OCI Foundations Associate.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
+      "score": "9.0",
+      "courses": [
+        "Cloud Computing con Oracle Cloud","1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "ONE - Oracle Next Education",
+      "url": "https://www.oracle.com/ar/education/oracle-next-education/",
+      "area": "Desarrollo de software y aplicaciones. Especialización Backend Java.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-01-05",
+      "endDate": "2024-11-01",
+      "score": "9.0",
+      "courses": [
+        "Spring Framework","APIs RESTful","Seguridad en Aplicaciones Java","Bases de Datos con SQL y NoSQL","Despliegue y Automatización","Metodologías Ágiles","Testing y Calidad de Software","Cloud Computing con Oracle Cloud"
+      ]
+    },
+    {
+      "institution": "Codo a Codo 4.0",
+      "url": "https://buenosaires.gob.ar/informe/full-stack-con-java-cac-40",
+      "area": "Programación Full Stack, desarrollo en Java.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Heavy Duty Camp - HEAVY DUTY BUILDERS",
+      "url": "https://heavyduty.builders/",
+      "area": "Desarrollo full stack Rust Anchor React.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-02-01",
+      "endDate": "2024-11-25",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "AWS Re/Start - Potrero digital fundación Compromiso",
+      "url": "https://www.potrerodigital.org/aws",
+      "area": "Soluciones en la nube, Cloud Practitioner.",
+      "studyType": "Curso",
+      "startDate": "2023-08-05",
+      "endDate": "2023-12-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica Nacional - Argentina Programa 4.0",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.argentina.gob.ar/sites/default/files/13._utn_-_desarrollador_java.pdf",
+      "area": "Desarrollo Java intermedio. Especialización Backend Java.",
+      "studyType": "Curso",
+      "startDate": "2023-07-05",
+      "endDate": "2023-11-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios",
+      "url": "https://unr.edu.ar/oficios/",
+      "area": "Desarrollo de software, programación Java Swing.",
+      "studyType": "Curso",
+      "startDate": "2023-01-05",
+      "endDate": "2023-07-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Marketing digital Digital Ad Certificate - Aleph Group",
+      "url": "https://www.digitaladexpert.com/es/digital-ad-certificate",
+      "area": "Estrategias de Marketing Digital, crear y ejecutar campañas.",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-05",
+      "endDate": "2023-12-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Argentina Programa #SéProgramar #YoProgramo - INTI, CESSI",
+      "url": "https://www.linkedin.com/school/programa-argentina/",
+      "area": "Perfil web Full Stack Java Angular.",
+      "studyType": "Bootcamp",
+      "startDate": "2022-02-05",
+      "endDate": "2023-12-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    }
+      ],
+
+
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Backend", "ApiRest"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Arquitectura"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Component", "Fullstack"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name":"PostgreSQL",
+        "level": "Junior",
+        "keywords":[
+          "Desarrollo Web", "Fullstack", "Bases de Datos", "SQL", "Almacenamiento de Datos"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Junior",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Junior",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Junior",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Español",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "Inglés",
+        "fluency": "Técnico"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Fundación Medjugorje Argentina",
+        "isActive": true,
+        "description": "Plataforma a medida de gestión y organización de eventos religiosos",
+        "highlights": [
+          "Diseño reponsive",
+          "Multiplataforma",
+          "React & Django",
+          "En desarrollo"
+        ],
+        "url": "https://github.com/matiaszelarayan/Medjugorje-"
+      },
+      {
+        "name": "Medihub MVP",
+        "isActive": false,
+        "description": "Aplicación web para clínicas y centros de salud; centraliza la gestión de citas médicas (presenciales y virtuales) y el historiales clínicos.",
+        "highlights": [
+          "Microservicios",
+          "Multiplataforma",
+          "React & Java Spring Boot",
+          "Open Source"
+        ],
+        "url": "https://github.com/nc-proyectos/Medihub/tree/main"
+      },
+      {
+        "name": "PetCare Platform MVP",
+        "isActive": false,
+        "description": " Aplicación web de gestión de servicios para mascotas; reservar paseos, cuidados y supervisar la calidad del servicio.",
+        "highlights": [
+          "React + Vite",
+          "APIs RESTful",
+          "Spring Boot",
+          "arquitectura MVC"
+        ],
+        "url": "https://github.com/R-Mutt22/equipo5-petcare-frontend"
+      },
+      {
+        "name": "Skill Link MVP",
+        "isActive": false,
+        "description": "Plataforma web que impulsa el crecimiento profesional de desarrolladores; conecta con mentores y participa en desafíos técnicos.",
+        "highlights": [
+          "APIs RESTful",
+          "Spring Websocket",
+          "3er puesto Hackathon Alumnithon Bad Batch"
+        ],
+        "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
+      },
+      {
+        "name": "Event Manager MVP",
+        "isActive": true,
+        "description": "Administrador de eventos descentralizados basado en blockchain de Solana; crea, gestiona y verifica eventos con seguridad y transparencia.",
+        "highlights": [
+          "Rust & Anchor",
+          "Solana Blockchain",
+          "React & Tailwind",
+          "En desarrollo"
+        ],
+        "url": "https://github.com/R-Mutt22/event-manager"
+      },
+      {
+        "name": "Landing Barber",
+        "isActive": true,
+        "description": "Proyecto para una barbería Landing; busca atraer nuevos clientes y dar información sobre los servicios y el equipo de la barbería.",
+        "highlights": [
+          "Diseño reponsive",
+          "Accesibilidad",
+          "Multiplataforma",
+          "Astro"
+        ],
+        "url": "https://r-mutt22.github.io/landing-barber/"
+      }
+    ]
+  }
+

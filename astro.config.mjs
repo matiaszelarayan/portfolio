@@ -1,14 +1,11 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
-  adapter: cloudflare(),
-  image: {
-    service: {
-      entrypoint: 'astro/assets/services/sharp'
-    }
-  }
+  output: 'static',
+  site: 'https://matiaszelarayan.github.io/portfolio/',
+  base: '/portfolio/',
+  // ...otros ajustes
 });
