@@ -17,21 +17,21 @@ const { image, summary, url } = basics
 		<title>{title}</title>
 		<meta name="description" content={summary} />
 		<meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-		<link rel="preload" as="image" href={image} />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.ico`} />
+    <link rel="preload" as="image" href={`${import.meta.env.BASE_URL}${image}`} />
 	
 		<meta property="og:url" content={url} />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={summary} />
-		<meta property="og:image" content="" />
+    <meta property="og:image" content={`${import.meta.env.BASE_URL}${image}`} />
 	
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta property="twitter:domain" content={url.split("//")[1] ?? ''} />
 		<meta property="twitter:url" content={url} />
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={summary} />
-		<meta name="twitter:image" content="" />
+    <meta name="twitter:image" content={`${import.meta.env.BASE_URL}${image}`} />
 		<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self';" />
     <!-- Política CSP agregada para mitigar XSS y mejorar la seguridad -->
 	  </head>

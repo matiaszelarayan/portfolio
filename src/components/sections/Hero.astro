@@ -80,7 +80,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src={`${import.meta.env.BASE_URL}${image}`} alt={name} />
     </figure>
   </div>
 </Section>
